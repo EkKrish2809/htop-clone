@@ -1,0 +1,2 @@
+# keep from commiting files with below extensions
+*.out
